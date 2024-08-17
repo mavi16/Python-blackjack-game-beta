@@ -20,7 +20,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
    ```
    pip install PyQt5
-Projeyi Klonlayın
+2. **Projeyi Klonlayın..
 
 Projeyi GitHub'dan klonlayın:
    ```
@@ -29,7 +29,7 @@ git clone https://github.com/username/repository.git
    ```
 cd repository
    ```
-Oyun Kodunu Çalıştırın
+3. **Oyun Kodunu Çalıştırın**
 
 ## Python ile oyunu çalıştırın:
 
