@@ -55,11 +55,14 @@ Bu proje, eğitim ve eğlence amaçlı olarak geliştirilmiştir. Proje kodu, ya
 Katkıda bulunmak isterseniz, lütfen çekirdek geliştirme sürecine katkıda bulunmadan önce aşağıdaki adımları izleyin:
 
 Bu projeyi kendi GitHub hesabınıza forkladığınızdan emin olun.
+
 Gerekli değişiklikleri yapın.
+
 Değişikliklerinizi içeren bir pull request oluşturun.
 
 ## İletişim
 Proje ile ilgili sorularınız veya geri bildirimleriniz için aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
 **E-posta: devbarancontact@gmail.com**
+
 **GitHub: github.com/mavi16**
