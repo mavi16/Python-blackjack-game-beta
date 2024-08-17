@@ -25,9 +25,7 @@ Projeyi GitHub'dan klonlayın:
    ```
 gh repo clone mavi16/Python-blackjack-game-beta
 ```
-   ```
-cd repository
-   ```
+
 3. **Oyun Kodunu Çalıştırın**
 
 ## Kullanım
