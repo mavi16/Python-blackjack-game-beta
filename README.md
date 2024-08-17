@@ -39,17 +39,17 @@ Bu proje, eğitim ve eğlence amaçlı olarak geliştirilmiştir. Proje kodu, ya
 
 ## Aşağıdaki şartları kabul etmiş olursunuz:
 
-Sorumluluk Reddi: Bu yazılım, herhangi bir garanti olmaksızın sağlanmaktadır. Yazılımın kullanımından kaynaklanan herhangi bir doğrudan veya dolaylı zarardan veya kayıptan proje geliştiricileri sorumlu tutulamaz. Kullanıcılar, yazılımı kendi riskleriyle kullanır.
+**Sorumluluk Reddi:** Bu yazılım, herhangi bir garanti olmaksızın sağlanmaktadır. Yazılımın kullanımından kaynaklanan herhangi bir doğrudan veya dolaylı zarardan veya kayıptan proje geliştiricileri sorumlu tutulamaz. Kullanıcılar, yazılımı kendi riskleriyle kullanır.
 
-Telif Hakları: Yazılımın tüm hakları ve mülkiyeti proje geliştiricilerine aittir. Yazılımın herhangi bir kısmının izinsiz olarak çoğaltılması, dağıtılması veya değiştirilmesi kesinlikle yasaktır. Yazılımın orijinal lisans koşullarına uygun olarak kullanılmalıdır.
+**Telif Hakları:** Yazılımın tüm hakları ve mülkiyeti proje geliştiricilerine aittir. Yazılımın herhangi bir kısmının izinsiz olarak çoğaltılması, dağıtılması veya değiştirilmesi kesinlikle yasaktır. Yazılımın orijinal lisans koşullarına uygun olarak kullanılmalıdır.
 
-Ticari Kullanım: Yazılımın ticari kullanımı, dağıtımı veya yeniden satışı için proje geliştiricilerinden izin alınması gerekmektedir. Proje kodu, yalnızca kişisel ve eğitim amaçlı olarak kullanılabilir.
+**Ticari Kullanım:** Yazılımın ticari kullanımı, dağıtımı veya yeniden satışı için proje geliştiricilerinden izin alınması gerekmektedir. Proje kodu, yalnızca kişisel ve eğitim amaçlı olarak kullanılabilir.
 
-Yasaların Uygulanabilirliği: Bu proje, [ülkenizin yasaları] kapsamında düzenlenmiş olup, bu yasalar uyarınca uygulanacaktır. Proje ile ilgili her türlü uyuşmazlık, [ülkenizin] mahkemelerine tabi olacaktır.
+**Yasaların Uygulanabilirliği:** Bu proje, [ülkenizin yasaları] kapsamında düzenlenmiş olup, bu yasalar uyarınca uygulanacaktır. Proje ile ilgili her türlü uyuşmazlık, [ülkenizin] mahkemelerine tabi olacaktır.
 
-Veri Koruma: Bu yazılım kişisel verileri toplamaz veya işler. Kullanıcıların veri koruma yasalarına ve yerel düzenlemelere uygun hareket etmeleri önemlidir.
+**Veri Koruma:** Bu yazılım kişisel verileri toplamaz veya işler. Kullanıcıların veri koruma yasalarına ve yerel düzenlemelere uygun hareket etmeleri önemlidir.
 
-Projeyi kullanarak, yukarıdaki şartları kabul etmiş olursunuz. Yazılımın kullanımına dair herhangi bir sorunuz varsa, lütfen proje geliştiricileri ile iletişime geçin.
+**Projeyi kullanarak, yukarıdaki şartları kabul etmiş olursunuz. Yazılımın kullanımına dair herhangi bir sorunuz varsa, lütfen proje geliştiricileri ile iletişime geçin.**
 
 ## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen çekirdek geliştirme sürecine katkıda bulunmadan önce aşağıdaki adımları izleyin:
@@ -61,5 +61,5 @@ Değişikliklerinizi içeren bir pull request oluşturun.
 ## İletişim
 Proje ile ilgili sorularınız veya geri bildirimleriniz için aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
-E-posta: devbarancontact@gmail.com
-GitHub: github.com/mavi16
+**E-posta: devbarancontact@gmail.com**
+**GitHub: github.com/mavi16**
