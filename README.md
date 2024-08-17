@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 # Blackjack Oyunu
 
 Bu proje, PyQt5 kullanarak geliştirilmiş basit bir Blackjack oyununu içerir. Oyun, kullanıcıların bahis yaparak ve zorluk seviyelerini seçerek blackjack oynayabileceği bir arayüze sahiptir.
@@ -24,7 +23,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 Projeyi GitHub'dan klonlayın:
    ```
-git clone https://github.com/username/repository.git
+gh repo clone mavi16/Python-blackjack-game-beta
 ```
    ```
 cd repository
