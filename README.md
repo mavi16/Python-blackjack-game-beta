@@ -31,8 +31,6 @@ cd repository
    ```
 3. **Oyun Kodunu Çalıştırın**
 
-## Python ile oyunu çalıştırın:
-
 ## Kullanım
 Bahis Miktarı: Oyuna başlamadan önce bahis miktarını belirleyin.
 Oran: Kazanç ve kayıp oranını seçin.
